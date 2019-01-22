@@ -626,3 +626,9 @@ https://youtu.be/Mv1vZsjEUGo
 ```
 https://youtu.be/j-gejqzE_MY
 ```
+
+**How to trade on DEX?**
+
+```
+https://www.youtube.com/watch?v=2U3QTfFkw2A
+```
