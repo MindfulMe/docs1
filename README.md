@@ -614,4 +614,15 @@ CREATE TABLE IF NOT EXISTS details (
 ```
 
 **How to update status of arts? (For admin)** 
+
+
+```
 https://youtu.be/Mv1vZsjEUGo
+```
+
+
+**How to tokenize your art (submit for review)?**
+
+```
+https://youtu.be/j-gejqzE_MY
+```
