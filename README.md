@@ -612,3 +612,6 @@ CREATE TABLE IF NOT EXISTS details (
     name VARCHAR(200) NOT NULL
   );
 ```
+
+** How to update status of arts? (For admin) *** 
+https://youtu.be/Mv1vZsjEUGo
