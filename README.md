@@ -612,6 +612,7 @@ CREATE TABLE IF NOT EXISTS details (
     name VARCHAR(200) NOT NULL
   );
 ```
+----
 
 **How to update status of arts? (For admin)** 
 
@@ -619,14 +620,14 @@ CREATE TABLE IF NOT EXISTS details (
 ```
 https://youtu.be/Mv1vZsjEUGo
 ```
-
+----
 
 **How to tokenize your art (submit for review)?**
 
 ```
 https://youtu.be/j-gejqzE_MY
 ```
-
+----
 **How to trade on DEX?**
 
 ```
