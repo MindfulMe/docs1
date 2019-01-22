@@ -613,5 +613,5 @@ CREATE TABLE IF NOT EXISTS details (
   );
 ```
 
-** How to update status of arts? (For admin) *** 
+**How to update status of arts? (For admin)** 
 https://youtu.be/Mv1vZsjEUGo
